@@ -1,7 +1,4 @@
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.svm import SVC
-from sklearn.tree import DecisionTreeClassifier
 from sklearn import metrics
 
 def c_pipeline(data, clf_dict):
