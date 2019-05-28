@@ -43,8 +43,7 @@ class ReLU():
         dA : 出力(活性化後)
 
         """
-        
-        dZ[self.mask] = 0
-        dA = dZ
+        dA = dZ.copy()
+        dA[self.mask] = 0
         
         return dA
