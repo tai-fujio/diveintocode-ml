@@ -1,0 +1,3 @@
+[submodule "groupwork"]
+	path = groupwork
+	url = git@github.com:y9dai/self_checkout.git
