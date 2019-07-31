@@ -1,3 +1,6 @@
 [submodule "groupwork"]
 	path = term3-groupwork
 	url = git@github.com:y9dai/self_checkout.git
+[submodule "term3-indivwork"]
+	path = term3-indivwork
+	url = https://github.com/y9dai/emosta_proto
