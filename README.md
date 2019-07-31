@@ -24,16 +24,16 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
   - [Week4 授業課題 信用情報を学習しよう](https://github.com/y9dai/diveintocode-ml/blob/master/term0/week4-session.ipynb)
 
 ## Term1 機械学習
-- [Sprint0 機械学習スクラッチ入門](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint0-ml-scratch-intro.ipynb)
-- [Sprint1 機械学習フロー](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint1-ml-scratch-intro.ipynb)
+- [Sprint0 機械学習スクラッチ入門](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint0_ml_scratch_intro.ipynb)
+- [Sprint1 機械学習フロー](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint1_ml_scratch_intro.ipynb)
 - ~~Sprint2 機械学習スクラッチ入門~~
-- [Sprint3 機械学習スクラッチ線形回帰](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint3-ml-scratch-linear-regression.ipynb)
-- [Sprint4 機械学習スクラッチロジスティック回帰](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint4-ml-scratch-logistic-regression.ipynb)
-- [Sprint5 機械学習スクラッチSVM](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint5-ml-scratch-svm.ipynb)
-- [Sprint6 機械学習スクラッチ決定木](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint6-ml-scratch-decision-tree.ipynb)
-- [Sprint7 機械学習スクラッチクラスタリング](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint7-ml-scratch-clustering.ipynb)
+- [Sprint3 機械学習スクラッチ線形回帰](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint3_ml_scratch_linear_regression.ipynb)
+- [Sprint4 機械学習スクラッチロジスティック回帰](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint4_ml_scratch_logistic_regression.ipynb)
+- [Sprint5 機械学習スクラッチSVM](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint5_ml_scratch_svm.ipynb)
+- [Sprint6 機械学習スクラッチ決定木](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint6_ml_scratch_decision_tree.ipynb)
+- [Sprint7 機械学習スクラッチクラスタリング](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint7_ml_scratch_clustering.ipynb)
 - ~~Sprint8 機械学習復習~~
-- [Sprint9 アンサンブル学習、グループワーク](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint9-ml-ensemble.ipynb)
+- [Sprint9 アンサンブル学習、グループワーク](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint9_ml_ensemble.ipynb)
 
 ## Term2 深層学習
 - [Sprint10 機械学習スクラッチニューラルネットワーク](https://github.com/y9dai/diveintocode-ml/blob/master/term2/sprint10_dl_scratch_neural_network.ipynb)
