@@ -25,7 +25,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 
 ## Term1 機械学習
 - [Sprint0 機械学習スクラッチ入門](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint0-ml-scratch-intro.ipynb)
-- [Sprint1 機械学習フロー](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint1_ml_scratch_intro.ipynb)
+- [Sprint1 機械学習フロー](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint1-ml-scratch-intro.ipynb)
 - ~~Sprint2 機械学習スクラッチ入門~~
 - [Sprint3 機械学習スクラッチ線形回帰](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint3-ml-scratch-linear-regression.ipynb)
 - [Sprint4 機械学習スクラッチロジスティック回帰](https://github.com/y9dai/diveintocode-ml/blob/master/term1/sprint4-ml-scratch-logistic-regression.ipynb)
@@ -48,7 +48,7 @@ DIVE INTO CODE機械学習コースの課題を管理するリポジトリです
 - [Sprint19 データセット作成](https://github.com/y9dai/diveintocode-ml/blob/master/term2/sprint19_make_dataset.ipynb)
 - [Sprint20 セグメンテーション](https://github.com/y9dai/diveintocode-ml/blob/master/term2/sprint20_segmentation1.ipynb)
 - [Sprint21 セグメンテーション2](https://github.com/y9dai/diveintocode-ml/blob/master/term2/sprint21_segmentation2.ipynb)
-- [Sprint22 自然言語処理入門](https://github.com/y9dai/diveintocode-ml/blob/master/term2/sprint22_nlp-intro.ipynb)
+- [Sprint22 自然言語処理入門](https://github.com/y9dai/diveintocode-ml/blob/master/term2/sprint22_nlp_intro.ipynb)
 - [Sprint23 深層学習スクラッチリカレントニューラルネットワーク](https://github.com/y9dai/diveintocode-ml/blob/master/term2/sprint23_dl_scratch_rnn.ipynb)
 - [Sprint24 ゲート付きリカレントニューラルネットワーク](https://github.com/y9dai/diveintocode-ml/blob/master/term2/sprint24_lstm.ipynb)
 - [Sprint25 Seq2Seq](https://github.com/y9dai/diveintocode-ml/blob/master/term2/sprint25_seq2seq.ipynb)
